@@ -1,3 +1,4 @@
+#this program is about guessing a number choosen randomly by the system
 import random
 
 print("this is a guessing game where you have to put the range and system will make a random number and then u have to guess it ")
